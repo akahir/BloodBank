@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Blood Bank</string>
+    <string name="blood_donation_quote_text">Donate Blood And Be The Reason For A Smile On Someone’s Face</string>
+    <string name="name_text">Name</string>
+    <string name="city_text">City</string>
+    <string name="mobile_number_text">Mobile Number (Verifiable)</string>
+    <string name="blood_group_text">Blood Group</string>
+    <string name="password_text">Password</string>
+    <string name="become_a_donor_text">Become A Donor</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="log_in_text">Login</string>
+    <string name="or_text">OR</string>
+    <string name="new_user_text">New User?</string>
+    <string name="sign_up_text"><u>SIGN UP</u></string>
+    <string name="choose_location_text">Choose Location</string>
+    <string name="make_request_text">Make Request</string>
+    <string name="write_a_heart_felt_message_and_add_an_image_for_the_community_somebody_will_definitely_help_you_if_possible">Write a heart felt message and add an image for the community, somebody will definitely help you if possible</string>
+    <string name="message">Message....</string>
+    <string name="choose_image_text"><u>Choose Image</u></string>
+    <string name="post_request_text">Post Request</string>
+    <string name="help_quote">Be calm you will find help here.</string>
+    <string name="select_city_text">SELECT CITY:</string>
+    <string name="eg_london">eg: Delhi</string>
+    <string name="blood_group">BLOOD GROUP:</string>
+    <string name="eg_ab">eg: AB+</string>
+    <string name="find_donors_text">Find Donors</string>
+    <string name="no_result_text">No results</string>
+</resources>
